@@ -1,1 +1,1 @@
-# joao-test
+print ("hello")
